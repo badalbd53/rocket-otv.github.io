@@ -2,61 +2,61 @@
 #EXTINF:0 group-title="Bangla",BTV
 http://103.205.133.19/hls/btv.m3u8
 #EXTINF:0 group-title="Bangla",BTV World
-http://robi.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+http://103.205.133.14/hls/btvworld.m3u8
 #EXTINF:0 group-title="Bangla",Songsad TV
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla",Gtv
-http://robi.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+http://45.249.187.238:8081/hls/live5.m3u8
 #EXTINF:0 group-title="Bangla",Maasranga
-http://robi.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+http://103.205.133.44:1935/live/masranga/playlist.m3u8
 #EXTINF:0 group-title="Bangla",Mohona
-http://robi.iptv.digijadoo.net/live/mohona_tv/playlist.m3u8
+http://103.205.133.14/hls/mohonatv.m3u8
 #EXTINF:0 group-title="Bangla",Asian TV
-http://robi.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla",ATN Bangla
-http://robi.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+http://103.205.133.19/hls/atnbangla.m3u8
 #EXTINF:0 group-title="Bangla",Banglavision TV
-http://robi.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+http://103.205.133.14/hls/banglavision.m3u8
 #EXTINF:0 group-title="Bangla",Boishakhi TV
-http://robi.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla",Channel 9
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla",Channel I
-http://robi.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla",Deepto TV
-http://robi.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+http://103.205.133.14/hls/deeptotv.m3u8
 #EXTINF:0 group-title="Bangla",Desh TV
-http://robi.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+http://103.205.133.14/hls/deshtv.m3u8
 #EXTINF:0 group-title="Kids",Duronto TV
-http://robi.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+http://103.205.133.44:1935/live/duronto/playlist.m3u8
 #EXTINF:0 group-title="News",ATN News
-http://robi.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+http://103.205.133.14/hls/atnnews.m3u8
 #EXTINF:0 group-title="News",Ekattor TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
+http://103.205.133.19/hls/ekatoortv.m3u8
 #EXTINF:0 group-title="News",Independent TV
-http://robi.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+http://103.205.133.14/hls/independent.m3u8
 #EXTINF:0 group-title="News",Somoy News
-http://robi.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+http://103.205.133.14/hls/somoy.m3u8
 #EXTINF:0 group-title="News",News 24
-http://robi.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+http://103.205.133.14/hls/news24.m3u8
 #EXTINF:0 group-title="News",DBC News
-http://robi.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+http://103.205.133.14/hls/dbcnews.m3u8
 #EXTINF:0 group-title="Bangla",Channel 24
-http://robi.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+http://103.205.133.14/hls/channel24.m3u8
 #EXTINF:0 group-title="Bangla",Jamuna TV
 http://103.205.133.19/hls/jamunatv.m3u8
 #EXTINF:0 group-title="Bangla",Cumilla 24
-http://tempt.jagobd.com:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cumilla24.stream/playlist.m3u8
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cumilla24.stream/playlist.m3u8
 #EXTINF:0 group-title="Bangla",Ekushey ETV
-http://robi.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+http://103.205.133.14/hls/ekushey.m3u8
 #EXTINF:0 group-title="Bangla",NTV
-http://robi.iptv.digijadoo.net/live/ntv/chunks.m3u8
+http://103.205.133.14/hls/ntv.m3u8
 #EXTINF:0 group-title="Bangla",Nagorik TV
-http://robi.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
+http://103.205.133.14/hls/nagorik.m3u8
 #EXTINF:0 group-title="Bangla",RTV
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
 #EXTINF:0 group-title="Bangla",SA TV HD
-http://robi.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
+http://103.205.133.14/hls/satv.m3u8
 #EXTINF:0 group-title="Bangla",Bangla TV HD
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/playlist.m3u8
 #EXTINF:0 group-title="Bangla",Bijoy TV
@@ -112,35 +112,35 @@ http://103.141.66.36/bpk-tv/10212/default/index.m3u8
 #EXTINF:0 group-title="Islamic",Sarjah TV
 http://103.141.66.36/bpk-tv/10177/default/index.m3u8
 #EXTINF:0 group-title="Islamic",Saudi Quran TV
-http://robi.iptv.digijadoo.net/live/quran_tv/chunks.m3u8
+http://iptvthunder.thunderbd.com/live/DFLIX/DFLIX/83.m3u8
 #EXTINF:0 group-title="Islamic",Saudi Sunnah TV
 http://robi.iptv.digijadoo.net/live/sunnah_tv/chunks.m3u8
 #EXTINF:0 group-title="Islamic",AL Dawah TV
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/playlist.m3u8
 
 #EXTINF:0 group-title="Music",Gaan Bangla
-http://robi.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+http://103.205.133.14/hls/gaanbangla.m3u8
 #EXTINF:0 group-title="Music",ATN MUSIC
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:0 group-title="Music",RTV MUSIC
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:0 group-title="Music",Music Choice
-http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/musicchoice.stream/playlist.m3u8
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/musicchoice.stream/playlist.m3u8
 #EXTINF:0 group-title="Music",Sangeet Bangla
-http://robi.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+http://45.249.187.238:8081/hls/new7.m3u8
 #EXTINF:0 group-title="Music",Ruposhi Bangla
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/95.m3u8
+http://103.205.133.14/hls/ruposhibangla.m3u8
 #EXTINF:0 group-title="Music",Bangla Talkies
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/91.m3u8
+http://iptvthunder.thunderbd.com/live/DFLIX/DFLIX/91.m3u8
 
 
 
 #EXTINF:0 group-title="Drama",Star Jalsha Hd
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/30.m3u8
+http://103.205.133.19/hls/chsj.m3u8
 #EXTINF:0 group-title="Drama",Zee Bangla
-http://robi.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+http://103.205.133.14/hls/zeebangla.m3u8
 #EXTINF:0 group-title="Drama",Zee Bangla HD
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeebanglahd/index.m3u8
+http://iptvthunder.thunderbd.com/live/DFLIX/DFLIX/34.m3u8
 #EXTINF:0 group-title="Drama",Colors Bangla HD
 http://robi.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 #EXTINF:0 group-title="Movies",Star Jalsha Movies
@@ -148,15 +148,15 @@ http://robi.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:0 group-title="Movies",Jalsha Movies HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/25.m3u8
 #EXTINF:0 group-title="Movies",Zee Bangla Cinema
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zbanglacnm/index.m3u8
+http://z5amshls.akamaized.net/zbanglacnm/index.m3u8
 #EXTINF:0 group-title="Movies",Khushboo Bangla
 http://streamitv.multitvsolution.in/idvo/khushboo_540p/index.m3u8
 #EXTINF:0 group-title="Movies",Enterr10 Bangla
 http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:0 group-title="Drama",Sony AATH
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/33.m3u8
+http://103.205.133.14/hls/sony8.m3u8
 #EXTINF:0 group-title="Drama",AKASH AATH
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/32.m3u8
+http://iptvthunder.thunderbd.com/live/DFLIX/DFLIX/32.m3u8
 #EXTINF:0 group-title="Drama",Orange Bangla
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
 
@@ -166,15 +166,15 @@ https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
 #EXTINF:0 group-title="Drama",Sony Sab HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
 #EXTINF:0 group-title="Drama",Zee TV
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/40.m3u8
+http://iptvthunder.thunderbd.com/live/DFLIX/DFLIX/40.m3u8
 #EXTINF:0 group-title="Drama",Zee TV HD
 http://103.141.66.36/bpk-tv/10403/default/index.m3u8
 #EXTINF:0 group-title="Drama",Colors Rishtey
 http://robi.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 #EXTINF:0 group-title="Drama",AndTV HD
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/74.m3u8
+http://iptvthunder.thunderbd.com/live/DFLIX/DFLIX/74.m3u8
 #EXTINF:0 group-title="Drama",Star Plus HD
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/67.m3u8
+http://iptvthunder.thunderbd.com/live/DFLIX/DFLIX/67.m3u8
 #EXTINF:0 group-title="Drama",Colors HD
 http://robi.iptv.digijadoo.net/live/colors_hd/playlist.m3u8
 #EXTINF:0 group-title="Drama",Colors Infinity
@@ -188,7 +188,7 @@ https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 #EXTINF:0 group-title="Kids",Disney XD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
 #EXTINF:0 group-title="Kids",NICK
-http://robi.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+http://iptvthunder.thunderbd.com/live/DFLIX/DFLIX/55.m3u8
 #EXTINF:0 group-title="Kids",Disney
 http://45.249.187.238:8081/hls/live0.m3u8
 #EXTINF:0 group-title="Kids",Sonic
@@ -239,7 +239,7 @@ http://witv.live:8880/live/52620/61967/790.ts
 #EXTINF:0 group-title="Documentary",National Geographic HD
 http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63557
 #EXTINF:0 group-title="Documentary",Nat Geo
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/112.m3u8
+http://iptvthunder.thunderbd.com/live/DFLIX/DFLIX/112.m3u8
 #EXTINF:0 group-title="Documentary",Nat Geo Wild
 http://robi.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:0 group-title="Documentary",Nat Geo People
@@ -255,35 +255,35 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/23.m3u8
 
 
 #EXTINF:0 group-title="Movies",Zee Cinema
-http://robi.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+http://103.205.133.50/hls/zeecinema.m3u8
 #EXTINF:0 group-title="Movies",Zee Cinema HD
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/76.m3u8
+http://iptvthunder.thunderbd.com/live/DFLIX/DFLIX/76.m3u8
 #EXTINF:0 group-title="Movies",Zee Cinema
 http://iptv.kitv.live:1935/live/Shari/MTV-P/29.m3u8
 #EXTINF:0 group-title="Movies",Zee Cinema
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/cinemauk/index.m3u8
+http://z5amshls.akamaized.net/cinemauk/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="Movies",Zee Cinema
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/cinemausa/index.m3u8
+http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="Movies",Zee Action
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/action/index.m3u8
+https://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="Movies",Zee Bollywood
 http://robi.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:0 group-title="Movies",Zee Anmol Cinema
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zanmolcnm/index.m3u8
+http://z5amshls.akamaized.net/zanmolcnm/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="Movies",Zee Mundo
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/mundohd/index.m3u8
+http://z5amshls.akamaized.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="Movies",Zee Smile
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/smileusa/tracks-v2a1/index.m3u8
+http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="Movies",Zee Bioskop
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/bioskopidn/index.m3u8
+http://z5amshls.akamaized.net/bioskopidn/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="Entertainment",Zee ETC
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/46.m3u8
+http://z5amshls.akamaized.net/etc/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="Movies",Star Gold
-http://robi.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+http://iptvthunder.thunderbd.com/live/DFLIX/DFLIX/75.m3u8
 #EXTINF:0 group-title="Movies",Star Gold HD
 http://witv.live:8880/live/52620/61967/785.ts
 #EXTINF:0 group-title="Movies",Star Gold 2
-http://robi.iptv.digijadoo.net/live/star_gold_2/chunks.m3u8
+http://45.249.187.238:8081/hls/tsl-3.m3u8
 #EXTINF:0 group-title="Movies",Star Gold
 http://216.144.250.174:80/Star_Gold_HD/index.m3u8
 #EXTINF:0 group-title="Movies",Star Gold Select HD
@@ -313,13 +313,13 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:0 group-title="Movies",Colore Cineplex
 http://witv.live:8880/live/52620/61967/803.ts
 #EXTINF:0 group-title="Movies",& Picture HD
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andpicshd/index.m3u8
+http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="Movies",& picture
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/100.m3u8
+http://iptvthunder.thunderbd.com/live/DFLIX/DFLIX/100.m3u8
 #EXTINF:0 group-title="Movies",& Explore
 http://witv.live:8880/live/52620/61967/803.m3u8
 #EXTINF:0 group-title="Movies",MoviePlus
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/97.m3u8
+http://iptvthunder.thunderbd.com/live/DFLIX/DFLIX/97.m3u8
 #EXTINF:0 group-title="Movies",BollyWood Hd
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:0 group-title="Movies",Bollywood Classic
@@ -353,7 +353,7 @@ https://streamitv.multitvsolution.in/idvo/housefullmovies.m3u8
 #EXTINF:0 group-title="Entertainment", Sony
 http://103.205.133.44:1935/live/sonyhdcm/chunklist_w2017054269.m3u8
 #EXTINF:0 group-title="Entertainment",SONY HD
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/38.m3u8
+http://iptvthunder.thunderbd.com/live/DFLIX/DFLIX/38.m3u8
 #EXTINF:0 group-title="Entertainment",Sony Pal
 http://witv.live:8880/live/52620/61967/812.ts
 
@@ -361,9 +361,9 @@ http://witv.live:8880/live/52620/61967/812.ts
 #EXTINF:0 group-title="Entertainment",AXN
 http://iptv.kitv.live:1935/live/Shari/MTV-P/42.m3u8
 #EXTINF:0 group-title="Movies",And Flix HD
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/andflixhd/index.m3u8
+https://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="Movies",&Prive HD
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andprivehd/index.m3u8
+http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="Movies",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:0 group-title="Movies",Movies Now
@@ -375,15 +375,15 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/38.m3u8
 #EXTINF:0 group-title="Movies",Star Movies
 http://45.249.187.238:8081/hls/tsl-8.m3u8
 #EXTINF:0 group-title="Movies",Star Movies HD
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/114.m3u8
+http://iptvthunder.thunderbd.com/live/DFLIX/DFLIX/114.m3u8
 #EXTINF:0 group-title="Movies",Star Movies Select HD
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/118.m3u8
+http://iptvthunder.thunderbd.com/live/DFLIX/DFLIX/118.m3u8
 #EXTINF:-1 group-title="Movies",Sony Movies Action
 http://51.52.156.22:8888/http/009
 #EXTINF:0 group-title="Movies",Sony Pix HD
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/41.m3u8
+http://iptvthunder.thunderbd.com/live/DFLIX/DFLIX/41.m3u8
 #EXTINF:0 group-title="Movies",WB
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/119.m3u8
+http://iptvthunder.thunderbd.com/live/DFLIX/DFLIX/119.m3u8
 #EXTINF:0 group-title="Movies",Warner TV
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:0 group-title="Movies",Hollywood HD
@@ -391,11 +391,11 @@ http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:0 group-title="Movies",Fox Action Movie
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:0 group-title="Movies",Macau Lotus TV
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/111.m3u8
+http://iptvthunder.thunderbd.com/live/DFLIX/DFLIX/111.m3u8
 #EXTINF:0 group-title="Movies",Comedy Central HD
 http://robi.iptv.digijadoo.net/live/diva/chunks.m3u8
 #EXTINF:0 group-title="Movies",Zee Café HD
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeecafehd/index.m3u8
+http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="Movies",HBO
 http://otv.ftpbd.net/streams/111/index.m3u8
 #EXTINF:0 group-title="Movies",HBO
@@ -475,33 +475,13 @@ http://livetv.colorsbd.com:8081/hdcrictv/ctg_tensports/chunks.m3u8
 #EXTINF:0 group-title="Sports",PK Sports
 http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/pksports.stream/playlist.m3u8
 #EXTINF:0 group-title="Sports",PTV Sports
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
+http://iptvthunder.thunderbd.com/live/DFLIX/DFLIX/73.m3u8
 #EXTINF:0 group-title="Sports",WILLW CRICKET
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/70.m3u8
-#EXTINF:0 group-title="Sports",WILLW Xtra
-http://witv.live:8880/live/52620/61967/1067.ts
-#EXTINF:-1 group-title="Sports",Sky Sports Main Event
-http://witv.live:8880/live/52620/61967/2091.ts
+http://iptvthunder.thunderbd.com/live/DFLIX/DFLIX/70.m3u8
 #EXTINF:-1 group-title="Sports",Sky Sports Cricket
-http://witv.live:8880/live/52620/61967/2090.ts
-#EXTINF:-1 group-title="Sports",Sky Sports Premier League
-http://witv.live:8880/live/52620/61967/2092.ts
+http://iptvthunder.thunderbd.com/live/DFLIX/DFLIX/71.m3u8
 #EXTINF:-1 group-title="Sports",Sky Sports Football
-http://witv.live:8880/live/52620/61967/2093.ts
-#EXTINF:-1 group-title="Sports",Sky Sports F1
-http://witv.live:8880/live/52620/61967/2094.ts
-#EXTINF:-1 group-title="Sports",Sky Sports Arena
-http://witv.live:8880/live/52620/61967/2095.ts
-#EXTINF:-1 group-title="Sports",Sky Sports Golf
-http://witv.live:8880/live/52620/61967/2096.ts
-#EXTINF:-1 group-title="Sports",BT Sport 1
-http://witv.live:8880/live/52620/61967/2097.ts
-#EXTINF:-1 group-title="Sports",BT Sport 2
-http://witv.live:8880/live/52620/61967/2098.ts
-#EXTINF:-1 group-title="Sports",BT Sport 3
-http://witv.live:8880/live/52620/61967/2099.ts
-#EXTINF:-1 group-title="Sports",BT Sport ESPN
-http://witv.live:8880/live/52620/61967/2100.ts
+http://iptvthunder.thunderbd.com/live/DFLIX/DFLIX/72.m3u8
 #EXTINF:0 group-title="Sports",Dsports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:0 group-title="Sports",Ads Sport
@@ -552,5 +532,4 @@ http://robi.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
 
 #EXTINF:0 group-title="News",dw news
 http://robi.iptv.digijadoo.net/live/dw/chunks.m3u8
-
 
